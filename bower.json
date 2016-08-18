@@ -1,0 +1,17 @@
+{
+    "name": "fontdinerswanky-googlefont",
+    "license": "APACHE2",
+    "authors": [
+        "Font Diner"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/fontdinerswanky-bower.git"
+    },
+    "description": "Fontdiner Swanky font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
